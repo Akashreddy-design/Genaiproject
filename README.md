@@ -1,6 +1,5 @@
 
-# AMAZON AI ASSISTANT
-## Amazon hackon submission for team SaaS
+# AI ASSISTANT
 
 Futuristic Shopping Experience with Generative AI for Amazon
 
